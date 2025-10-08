@@ -58,4 +58,20 @@ Developed by: RegisterNumber:*/
 
 **Output/TIMING Waveform**
 
-**Result:**
+**Result**
+
+
+Result 1
+state diagram
+<img width="1920" height="1200" alt="Jeyasri E3a RTL" src="https://github.com/user-attachments/assets/5a4cd4fa-d248-4431-b712-828364b0c5e8" />
+
+clock pulse
+<img width="1920" height="1200" alt="Jeyasri E3a CP" src="https://github.com/user-attachments/assets/a96d995c-53b2-41d2-a914-ef39d3272fa7" />
+
+
+Result 2
+state diagram
+<img width="1920" height="1200" alt="Jeyasri E2b RTL" src="https://github.com/user-attachments/assets/48bd7d21-fca7-4905-b73c-c25cae8c1c8f" />
+
+clock pulse
+<img width="1920" height="1200" alt="Jeyasri E2b CP" src="https://github.com/user-attachments/assets/9753345a-dc42-490f-8938-61fea50ffe91" />
